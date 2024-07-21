@@ -1,0 +1,7 @@
+cityscapes/gtFine/
+cityscapes/leftImg8bit/
+cityscapes/final_model.h5
+cityscapes/best_model.h5
+cityscapes/model_quantized_no_tile.tflite
+cityscapes/model_quantized.tflite
+cityscapes/model.tflite
